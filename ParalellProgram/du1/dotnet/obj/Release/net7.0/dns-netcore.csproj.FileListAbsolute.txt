@@ -1,0 +1,15 @@
+D:\Skola\mff\ParalellProgram\du1\dotnet\bin\Release\net7.0\dns-netcore.exe
+D:\Skola\mff\ParalellProgram\du1\dotnet\bin\Release\net7.0\dns-netcore.deps.json
+D:\Skola\mff\ParalellProgram\du1\dotnet\bin\Release\net7.0\dns-netcore.runtimeconfig.json
+D:\Skola\mff\ParalellProgram\du1\dotnet\bin\Release\net7.0\dns-netcore.dll
+D:\Skola\mff\ParalellProgram\du1\dotnet\bin\Release\net7.0\dns-netcore.pdb
+D:\Skola\mff\ParalellProgram\du1\dotnet\obj\Release\net7.0\dns-netcore.csproj.AssemblyReference.cache
+D:\Skola\mff\ParalellProgram\du1\dotnet\obj\Release\net7.0\dns-netcore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skola\mff\ParalellProgram\du1\dotnet\obj\Release\net7.0\dns-netcore.AssemblyInfoInputs.cache
+D:\Skola\mff\ParalellProgram\du1\dotnet\obj\Release\net7.0\dns-netcore.AssemblyInfo.cs
+D:\Skola\mff\ParalellProgram\du1\dotnet\obj\Release\net7.0\dns-netcore.csproj.CoreCompileInputs.cache
+D:\Skola\mff\ParalellProgram\du1\dotnet\obj\Release\net7.0\dns-netcore.dll
+D:\Skola\mff\ParalellProgram\du1\dotnet\obj\Release\net7.0\refint\dns-netcore.dll
+D:\Skola\mff\ParalellProgram\du1\dotnet\obj\Release\net7.0\dns-netcore.pdb
+D:\Skola\mff\ParalellProgram\du1\dotnet\obj\Release\net7.0\dns-netcore.genruntimeconfig.cache
+D:\Skola\mff\ParalellProgram\du1\dotnet\obj\Release\net7.0\ref\dns-netcore.dll
